@@ -32,9 +32,11 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/).
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67130269/171967978-39408b3f-b67c-4f09-a586-542da1b2a44c.gif)
+
+
 
 ## Notes
 
